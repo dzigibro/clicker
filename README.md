@@ -18,4 +18,4 @@ Now it's a minimal script you can reuse, fork, or break stuff with.
 
 ```bash
 pip install pynput
-python3 click_golem.py
+python3 clicker.py
